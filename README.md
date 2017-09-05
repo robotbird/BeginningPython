@@ -1,6 +1,6 @@
 # BeginningPython
 Python 基础教程第二版本学习代码
-
+···
 目录  · · · · · ·
 第1章　快速改造：基础知识　　1
 1.1 　安装Python　　1
